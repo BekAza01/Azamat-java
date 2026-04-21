@@ -1,4 +1,5 @@
 import java.util.function.BiFunction;
+import java.util.function.Function;
 
 public class Task1 {
     public static void main(String[] args) {
